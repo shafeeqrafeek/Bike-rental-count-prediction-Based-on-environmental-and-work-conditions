@@ -15,7 +15,7 @@ _Here we highlight some of the predictor variables and their influence on the nu
 
 _A Scatterplot displaying the spread of rental count throughout the given duration 2011-2012 is given below with the data points colour coded with corresponding seasons._
 
-![01](master/bike_rental_count_prediction/plots/seasonal_variation_of_count.jpeg)
+![01](./bike_rental_count_prediction/plots/seasonal_variation_of_count.jpeg)
 
 _A lot of information is revealed in this plot including the fact that the rental count is more elevated in 2012 than 2011 as indicated by the regression lines. We could clearly see that the rental count is at its minimum during spring, starts rising throughout summer and reaches its maximum during autumn after which it begins to fall during winter. This overall inverse parabolic trend holds true for both the years_
 
