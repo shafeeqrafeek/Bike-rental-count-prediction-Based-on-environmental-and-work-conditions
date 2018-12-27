@@ -21,17 +21,17 @@ _A lot of information is revealed in this plot including the fact that the renta
 
 _A scatter plot to depict the effect of humidity on rental count is given below_
 
-![02](./plots/humidity_vs_count_solo.jpeg)
+![02](./bike_rental_count_prediction/plots/humidity_vs_count_solo.jpeg)
 
 _When we look at the humid conditions (represented by &#39;hum&#39; variable) prevalent throughout 2011-2012 its influence on the rental count is not so apparent at first. But when we consider the corresponding season, there is a declining trend in rental count with increase in humidity as clearly shown below_
 
-![03](./plots/humidity_vs_count.jpeg)
+![03](./bike_rental_count_prediction/plots/humidity_vs_count.jpeg)
 
 _Hence we can safely conclude that as the season progresses from spring to winter, humidity inversely affects the rental count which also makes sense as riding a bike out in the open is less favourable in more humid conditions. This relationship also holds true for wind speed._
 
 _The relationship between the generic weather and rental count also reveals interesting information. The bar graph indicating the average number of bikes rented during various weather conditions is given below_
 
-![04](./plots/weather_vs_count.jpg)
+![04](./bike_rental_count_prediction/plots/weather_vs_count.jpg)
 
 _The average number of bikes rented when there were clear weather conditions differs from the average number of bikes rented when there were little or a decent chance for rain by a significant margin. From this, we can derive the conclusion that there is a better chance for customers renting more bikes when there is little or no chance for rain._
 
@@ -42,7 +42,7 @@ _The average number of bikes rented when there were clear weather conditions dif
 
 _The below Figure shows that the variables hum, windspeed and casual contains outliers which must be removed before proceeding further. The data points that lie beyond the extreme boundaries are classified as outliers and removed._
 
-![05](./plots/boxplot_visualization.jpg)
+![05](./bike_rental_count_prediction/plots/boxplot_visualization.jpg)
 
 ### Feature Selection
 
